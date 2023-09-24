@@ -84,10 +84,10 @@ width: 150px; sets the width of buttons to 150 pixels.
 * @media (max-width: 768px) is a media query that applies the contained styles when the viewport width is at most 768 pixels.
 * outer selects an element with the class "outer."
 * max-width: 80%; sets the maximum width of the element to 80% of its container.
-
-  #Hosted Link
-  https://nikhitha5511.github.io/MediaQuery/
 * margin: 0 auto; centers the element horizontally within its container.
 * padding: 0; removes any padding from the element.
 * height: 50%; sets the height of the element to 50% of its container.
 * cursor: zoom-in; changes the cursor to a zoom-in icon when hovering over the element.
+
+   #Hosted Link
+  https://nikhitha5511.github.io/MediaQuery/
